@@ -7,11 +7,11 @@ A collection of implementation, exploration and learning from using [Home Assist
   - [How To Guides](#how-to-guides)
 
 ## Home Assistant Installation
- - [Azure Fundamental Notes](./azure/azure-fundamentals-notes.md)
+  - [To Be Updated]()
 
 
 ## Addons
-
+  - [To Be Updated]()
 
 ## How To Guides
-
+ - [Updating IP address of HA through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
