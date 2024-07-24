@@ -8,6 +8,7 @@ ha > network info
 ![HA Network Info](/images/ha-networkinfo.png)
 
 2. Execute the following command by replacing (“en3sp2”) with your HA network adapter name. 
+
 ```ssh
 ha > network update en3sp2--ipv4-method auto --ipv6-method disabled
 ```
