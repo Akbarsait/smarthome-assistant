@@ -8,14 +8,15 @@ A collection of implementation, exploration and learnings from using [Home Assis
   - [How To Guides](#how-to-guides)
 
 ## Home Assistant Installation
-  - [To Be Updated]()
+  - [Enabling USB Drivers on Synology NAS for Zigbee Integration](/ha-installations/enabling-usbdrivers-in-synologynas-zigbee-integration.md)
 
 ## Addons
   - [To Be Updated]()
 
 ## Automations
 - [Adding Adhan Automation to Home Assistant](/automations/adhan-automation-update.md)
+- [Automating Home Assistant Configuration to GitHub](/automations/automating-homeassistant-configs-to-github.md)
   
 ## How To Guides
  - [Updating IP address of HA through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
- - [Enabling USB Drivers on Synology NAS for Zigbee Integration](/how-to-guides/enabling-usbdrivers-in-synologynas-zigbee-integration.md)
+ 
