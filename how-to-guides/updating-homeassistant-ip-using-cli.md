@@ -5,7 +5,7 @@ Last week while enabling Two routers with one Home Network, I forget to update t
 ```ssh
 ha > network info
 ```
-![HA Network Info](/images/ha-networkinfo.png)
+ ![HA Network Info](https://github.com/Akbarsait/smarthome-assistant/blob/main/images/ha-networkinfo.png)
 
 2. Execute the following command by replacing (“en3sp2”) with your HA network adapter name. 
 
