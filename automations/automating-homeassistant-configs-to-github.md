@@ -1,4 +1,5 @@
 # Automating Home Assistant Configuration to GitHub
+Posted in the blog as well [Automating Home Assistant Configuration to GitHub](https://akbarsait.com/blog/2024/07/22/automating-home-assistant-configuration-to-github/)
 
 Being a newbie to Home Assistant, I wanted to automate the changes to the configuration files/folder by pushing these backups to a private GitHub repository. This approach helps avoid exposing any secrets or API tokens and ensures that I can restore contents when required due to any failures of the Home Assistant instance.
 
