@@ -18,5 +18,5 @@ A collection of implementation, exploration and learnings from using [Home Assis
 - [Automating Home Assistant Configuration to GitHub](/automations/automating-homeassistant-configs-to-github.md)
   
 ## How To Guides
- - [Updating IP address of HA through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
+ - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
  
