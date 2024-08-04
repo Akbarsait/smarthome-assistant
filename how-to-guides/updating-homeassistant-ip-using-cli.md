@@ -1,5 +1,5 @@
 # Updating IP address of HA through CLI
-Last week while enabling Two routers with one Home Network, I forget to update the mapped IP address to my Home Assistant. After the switchover of the IPs based on the Main router, I lost the access to my Home Assistant. The following approach resolved my issue and came in handy. 
+Last week while enabling **[Two routers with one Home Network](https://github.com/Akbarsait/todayilearned/blob/master/network/adding-two-routers-in-homenetwork.md)**, I forget to update the mapped IP address to my Home Assistant. After the switchover of the IPs based on the Main router, I lost the access to my Home Assistant. The following approach resolved my issue and came in handy. 
 
 1. Check the network adapter and find your current IP address set for HA. Refer the command and image below for details. 
 ```ssh
