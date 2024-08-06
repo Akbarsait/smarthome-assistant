@@ -16,6 +16,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
 ## Automations
 - [Adding Adhan Automation to Home Assistant](/automations/adhan-automation-update.md)
 - [Automating Home Assistant Configuration to GitHub](/automations/automating-homeassistant-configs-to-github.md)
+- [Adding Triggers to Aqara Mini Switch](/automations/aqara-miniswitch-events.md)
   
 ## How To Guides
  - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
