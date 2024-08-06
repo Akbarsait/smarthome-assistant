@@ -1,4 +1,4 @@
-# Adding Triggers to Aqara Mini Switch Aqara Mini Switch
+# Adding Triggers to Aqara Mini Switch
 This is a simple script to automate [Aqara Mini switch](https://www.aqara.com/en/product/wireless-mini-switch/) click events. The code below enables three power switches at my location. Identically, a light or an alarm could be enabled based on the click. 
 - Single
 - Double
