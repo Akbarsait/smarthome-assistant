@@ -34,3 +34,37 @@ action:
 mode: single
 
 ```
+The following code handles some automation for "double" tap action of the switch. 
+
+```yaml
+id: '1722999999631'
+alias: AMiniSwitch - DoubleTap
+description: 'Turn off the switches, toggle the lights and turn off a light. '
+trigger:
+  - platform: device
+    domain: mqtt
+    device_id: 6cbadc75aef8e55f39d3f26d0b1c29a9
+    type: action
+    subtype: double
+condition: []
+action:
+  - service: switch.turn_off
+    metadata: {}
+    data: {}
+    target:
+      device_id:
+        - f89f354664005c68272a3ca960639dd6
+        - d0cca0e708d471c283fffc2418efd242
+  - service: light.toggle
+    metadata: {}
+    data: {}
+    target:
+      device_id:
+        - 107db0d4738a5964790d32d7e4e39702
+  - service: light.turn_off
+    metadata: {}
+    data: {}
+    target:
+      device_id: 273ef34f0cd62e861b85f4a0302e04bf
+mode: single
+```
