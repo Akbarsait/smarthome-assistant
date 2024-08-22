@@ -18,6 +18,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
 - [Automating Home Assistant Configuration to GitHub](/automations/automating-homeassistant-configs-to-github.md)
 - [Adding Triggers to Aqara Mini Switch](/automations/aqara-miniswitch-events.md)
 - [Adding Media Notificaiton/Alerts to Door Sensors](/automations/zigbee-doorsensor-notifications.md)
+- [Turn Lights On/Off with Zigbee Motion Sensors Detection](/automations/zigbee-motionsensor-triggerandaction.md)
   
 ## How To Guides
  - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
