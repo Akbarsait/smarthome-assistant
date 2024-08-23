@@ -32,5 +32,3 @@ action:
       device_id: f89f354664005c68272a3ca960639dd6
 mode: single
 ```
-
-

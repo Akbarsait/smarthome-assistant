@@ -1,5 +1,5 @@
-# Adding Media Notificaiton/Alerts to Door Sensors
-Idea is to trigger an alert with the custom audio message or notification whenever door/window is opened. The code utilizes two inputs, the device and entity ID and trigger the action to initiate one of the connected media players to play the audio. 
+# Adding Media Notificaiton/Alerts to Zigbee Door Sensors
+The goal is to trigger an alert with a custom audio message or notification whenever a door or window is opened. The code uses two inputs: the device and entity ID, which then trigger an action to play the audio through one of the connected media players.
 
 
 ```yaml
