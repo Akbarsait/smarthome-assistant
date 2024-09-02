@@ -13,7 +13,6 @@ The Actions available for a zigbee/wifi switch:
 - switch.turn_on
 - switch.toggle
 
-
 ```yaml
 alias: Motion Sensor To Hall Light
 description: "Switch On the Hall light when MotionSensor1 Occupancy detected occupancy "
