@@ -20,7 +20,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
 - [Adding Media Notificaiton/Alerts to Door Sensors](/automations/zigbee-doorsensor-notifications.md)
 - [Turn Lights On/Off with Zigbee Motion Sensors Detection](/automations/zigbee-motionsensor-triggerandaction.md)
 - [Toggle Tuya Plug to On/Off based on Time](/automations/tuya-plug-timebasedroutine-automation.md)
-  
+- [Automating Kasa Smart Bulb with HA](/automations/kasa-smartbulb-automation.md)
 ## How To Guides
  - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
  
