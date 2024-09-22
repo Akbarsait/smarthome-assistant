@@ -11,7 +11,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
   - [Enabling USB Drivers on Synology NAS for Zigbee Integration](/ha-installations/enabling-usbdrivers-in-synologynas-zigbee-integration.md)
 
 ## Addons
-  - [To Be Updated]()
+  - [AdGuard Home](/addons/adgaurd-server.md)
 
 ## Automations
 - [Adding Adhan Automation to Home Assistant](/automations/adhan-automation-update.md)
