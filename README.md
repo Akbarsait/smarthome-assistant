@@ -6,6 +6,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
   - [Addons](#addons)
   - [Automations](#automations)
   - [How To Guides](#how-to-guides)
+  - [Integrations](#integrations)
 
 ## Home Assistant Installation
   - [Enabling USB Drivers on Synology NAS for Zigbee Integration](/ha-installations/enabling-usbdrivers-in-synologynas-zigbee-integration.md)
@@ -21,6 +22,9 @@ A collection of implementation, exploration and learnings from using [Home Assis
 - [Turn Lights On/Off with Zigbee Motion Sensors Detection](/automations/zigbee-motionsensor-triggerandaction.md)
 - [Toggle Tuya Plug to On/Off based on Time](/automations/tuya-plug-timebasedroutine-automation.md)
 - [Automating Kasa Smart Bulb with HA](/automations/kasa-smartbulb-automation.md)
+
 ## How To Guides
  - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
  
+## Integrations
+- [Real-Time Stream of Tapo Camera with WebRTC](/integrations/realtime-streaming-tapo-camera-webrtc.md)
