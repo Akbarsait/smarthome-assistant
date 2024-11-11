@@ -23,8 +23,10 @@ A collection of implementation, exploration and learnings from using [Home Assis
 - [Toggle Tuya Plug to On/Off based on Time](/automations/tuya-plug-timebasedroutine-automation.md)
 - [Automating Kasa Smart Bulb with HA](/automations/kasa-smartbulb-automation.md)
 
+
 ## How To Guides
  - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
- 
+
+
 ## Integrations
 - [Real-Time Stream of Tapo Camera with WebRTC](/integrations/realtime-streaming-tapo-camera-webrtc.md)
