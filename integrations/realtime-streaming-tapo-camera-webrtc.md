@@ -12,7 +12,7 @@ This guide provides configuration details for real-time streaming of the Tapo C1
 2. WebRTC utilizes [go2rtc](https://github.com/AlexxIT/go2rtc) as Streaming Server. Install go2rtc as an addon in HA. 
 3. Start go2rtc Addon. 
 4. Add a custom card with the IP address of your camera in the following format. 
-   1. Install the TP-Link Tapo app on your mobile. [Android](https://play.google.com/store/apps/details?id=com.tplink.iot&hl=en_CA) | [iOS](https://apps.apple.com/us/app/tp-link-tapo/id1472718009)
+   1. Install the TP-Link Tapo app on your mobile. [Android](https://play.google.com/store/apps/details?id=com.tplink.iot&hl=en_CA), [iOS](https://apps.apple.com/us/app/tp-link-tapo/id1472718009)
    2. Follow the instructions on the configure the Tapo C110 camera. 
    3. Create the camera account with the username and password in the TP-Link App. 
    4. Replace the username, password and IP address from the Tapo C110 from the app. 
