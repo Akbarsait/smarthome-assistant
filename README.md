@@ -13,6 +13,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
 
 ## Addons
   - [AdGuard Home](/addons/adguard-server.md)
+  - [Samba share](/addons/samba-share.md)
 
 ## Automations
 - [Adding Adhan Automation to Home Assistant](/automations/adhan-automation-update.md)
