@@ -5,12 +5,20 @@ Last week while enabling **[Two routers with one Home Network](https://github.co
 ```ssh
 ha > network info
 ```
- ![HA Network Info](https://github.com/Akbarsait/smarthome-assistant/blob/main/images/ha-networkinfo.png)
+ ![HA Network Info](/images/ha-networkinfo.png)
 
 2. Execute the following command by replacing (“en3sp2”) with your HA network adapter name. 
 
 ```ssh
-ha > network update en3sp2--ipv4-method auto --ipv6-method disabled
+ha > network update en3sp2 --ipv4-method auto --ipv6-method disabled
 ```
 
 For more reading, refer the following thread at the [Home Assistant Community](https://community.home-assistant.io/t/how-to-change-ip-adresse-in-cli/332205/24?u=akbar) forum. 
+
+
+### Quick Reference Commands
+
+1. Displays CLI banner with the Home Assistant URL, OS version, System information with IPv4 and IPv6
+```ssh
+ha > banner
+```
