@@ -27,6 +27,7 @@ A collection of implementation, exploration and learnings from using [Home Assis
 
 ## How To Guides
  - [Updating IP address of Home Assistant through CLI](/how-to-guides/updating-homeassistant-ip-using-cli.md)
+ - [ynology NAS Shared Folder as Home Assistant Backup](/how-to-guides/synology-nas-sharedfolder-as-homeassistant-backup.md)
 
 
 ## Integrations
